@@ -1,0 +1,10 @@
+# executables
+cache_simulator
+a.out
+
+# macOS junk
+.DS_Store
+
+# build folders (future)
+build/
+
